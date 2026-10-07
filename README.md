@@ -6,6 +6,6 @@ I publish open-source software, models, datasets, experiments, and technical wor
 
 [Website](https://hatsunama.github.io/) · [AI work](https://hatsunama.github.io/hatsunama-ai/) · [Hugging Face](https://huggingface.co/Hatsunama)
 
-Latest methods note: [Did a Local AI Change Help? A Reproducible Comparison](https://hatsunama.github.io/research/reproducible-local-ai-comparisons/) — fixed cases, explicit expectations and a small JSONL template.
+Latest methods note: [Correcting AI Captions Without Changing the Speaker's Meaning](https://hatsunama.github.io/research/caption-corrections-and-uncertainty/) — preserve qualifications, mark uncertainty and check the final export.
 
 Human First AI is a recurring principle in my work: preserve people's meaning, keep consequential actions under human control, and verify outcomes.
