@@ -6,4 +6,6 @@ I publish open-source software, models, datasets, experiments, and technical wor
 
 [Website](https://hatsunama.github.io/) · [AI work](https://hatsunama.github.io/hatsunama-ai/) · [Hugging Face](https://huggingface.co/Hatsunama)
 
-Latest research note: [AI Tool Calling vs Tool Use: Why They're Not the Same](https://hatsunama.github.io/research/ai-tool-calling-vs-tool-use/).
+Latest methods note: [Did a Local AI Change Help? A Reproducible Comparison](https://hatsunama.github.io/research/reproducible-local-ai-comparisons/) — fixed cases, explicit expectations and a small JSONL template.
+
+Human First AI is a recurring principle in my work: preserve people's meaning, keep consequential actions under human control, and verify outcomes.
